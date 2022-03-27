@@ -1,0 +1,20 @@
+{
+  "name": "js-top-testing-practice",
+  "version": "1.0.0",
+  "description": "Testing practice exercise",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikms95/js-top-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vikms95/js-top-testing-practice/issues"
+  },
+  "homepage": "https://github.com/Vikms95/js-top-testing-practice#readme"
+}
